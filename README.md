@@ -23,10 +23,6 @@ This is a personal portfolio website designed to highlight my skills, projects, 
 - **Frontend:** HTML, CSS, JavaScript
 - **Deployment:** GitHub Pages
 
-## 🖼️ Screenshots
-![Portfolio Home](https://via.placeholder.com/800x400 "Screenshot of the portfolio homepage")
-_Add your screenshots here._
-
 ## 📂 Folder Structure
 ```plaintext
 My-Portfolio/
